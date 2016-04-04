@@ -47,44 +47,42 @@
     "category": "Jobs",
     "subcategory": "engineering"
   },{
-    "name": ,
-    "description": ,
-    "contact": ,
-    "category": ,
-    "subcategory":
+    "name": "1990 Honda Accord",
+    "description": "Reconstructed Title. 210,299 miles. $680 firm.",
+    "contact": "bernie.s@birdman.net",
+    "category": "Buy Sell",
+    "subcategory": "auto"
   },{
-    "name": ,
-    "description": ,
-    "contact": ,
-    "category": ,
-    "subcategory":
+    "name": "2010 Ford Mustang GT",
+    "description": "Clean. One owner. 42,000 miles. $28,900 obo.",
+    "contact": "(503)322-1239",
+    "category": "Buy Sell",
+    "subcategory": "auto"
   },{
-    "name": ,
-    "description": ,
-    "contact": ,
-    "category": ,
-    "subcategory":
+    "name": "2015 Lexus IS350",
+    "description": "Need someone to take over payments. $530/mo for 48 months.",
+    "contact": "str8baller@zmail.com",
+    "category": "Buy Sell",
+    "subcategory": "auto"
   }],
 
   "categories": [{
-    "name": "Jobs",
-    "city": "Portland",
-    "state": "OR",
-    "country": "USA"
+    "name": "Jobs"
   },{
-    "name": "Buy Sell",
-    "city": "Portland",
-    "state": "OR",
-    "country": "USA"
+    "name": "Buy Sell"
+  }],
+
+  "cities": [{
+    "name": "Portland",
+    "state": "OR"
+  },{
+    "name": "Salem",
+    "state": "OR"
   }, {
-    "name": "Jobs",
-    "city": "Vancouver",
-    "state": "BC",
-    "country": "Canada"
+    "name": "Seattle",
+    "state": "WA"
   }, {
-    "name": "Buy Sell",
-    "city": "Vancouver",
-    "state": "BC",
-    "country": "Canada"
+    "name": "Longview",
+    "state": "WA"
   }]
 }
