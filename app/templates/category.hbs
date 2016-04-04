@@ -1,1 +1,9 @@
-{{outlet}}
+<div class="container">
+  <h3>{{model.name}}</h3>
+  <hr>
+  <h5>
+    {{#each model.listings as |listing|}}
+      {{listing-tile listing=listing}}
+    {{/each}}
+  </h5>
+</div>
