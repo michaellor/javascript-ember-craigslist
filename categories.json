@@ -1,51 +1,51 @@
 { "listings": [{
-    "name": ,
-    "description": ,
-    "contact": ,
-    "category": ,
-    "subcategory":
+    "name": "Staff Accountant",
+    "description": "Looking for a staff accountant. $24/hr.",
+    "contact": "fredjones.cpa@example.net",
+    "category": "Jobs",
+    "subcategory": "accounting+finance"
   }, {
-    "name": ,
-    "description": ,
-    "contact": ,
-    "category": ,
-    "subcategory":
+    "name": "Book Keeper",
+    "description": "Need a part time bookkeeper for tax season. $15/hr.",
+    "contact": "anne@keepingyourbooks.net",
+    "category": "Jobs",
+    "subcategory": "accounting+finance"
   }, {
-    "name": ,
-    "description": ,
-    "contact": ,
-    "category": ,
-    "subcategory":
+    "name": "Certified Public Accountant",
+    "description": "Looking for a CPA to join our growing firm. Full benefits. $70,000 annual salary.",
+    "contact": "lisa.meyers@maximcpa.com",
+    "category": "Jobs",
+    "subcategory": "accounting+finance"
   }, {
-    "name": ,
-    "description": ,
-    "contact": ,
-    "category": ,
-    "subcategory":
+    "name": "Tax Preparer",
+    "description": "Need a tax preparer. $20/hr.",
+    "contact": "509-334-2082",
+    "category": "Jobs",
+    "subcategory": "accounting+finance"
   },{
-    "name": ,
-    "description": ,
-    "contact": ,
-    "category": ,
-    "subcategory":
+    "name": "Structural Engineer",
+    "description": "Full time position for a structural engineer available immediately. $80,000 annual salary.",
+    "contact": "mike@smithandwiser.net",
+    "category": "Jobs",
+    "subcategory": "engineering"
   },{
-    "name": ,
-    "description": ,
-    "contact": ,
-    "category": ,
-    "subcategory":
+    "name": "Mechanical Engineer II",
+    "description": "Looking for an experienced mechanical engineer to join our team! $30/hr.",
+    "contact": "jobs@urbantech.com",
+    "category": "Jobs",
+    "subcategory": "engineering"
   },{
-    "name": ,
-    "description": ,
-    "contact": ,
-    "category": ,
-    "subcategory":
+    "name": "Chemical Engineer",
+    "description": "We have an opening for a chemical engineer. $25/hr.",
+    "contact": "jobs@urbantech.com",
+    "category": "Jobs",
+    "subcategory": "engineering"
   },{
-    "name": ,
-    "description": ,
-    "contact": ,
-    "category": ,
-    "subcategory":
+    "name": "Packaging Engineer",
+    "description": "Looking to hire an engineer to work on microprocessor packaging. $69,000/yr.",
+    "contact": "brian.g@newlinemicro.com",
+    "category": "Jobs",
+    "subcategory": "engineering"
   },{
     "name": ,
     "description": ,
