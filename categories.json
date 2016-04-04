@@ -1,0 +1,90 @@
+{ "listings": [{
+    "name": ,
+    "description": ,
+    "contact": ,
+    "category": ,
+    "subcategory":
+  }, {
+    "name": ,
+    "description": ,
+    "contact": ,
+    "category": ,
+    "subcategory":
+  }, {
+    "name": ,
+    "description": ,
+    "contact": ,
+    "category": ,
+    "subcategory":
+  }, {
+    "name": ,
+    "description": ,
+    "contact": ,
+    "category": ,
+    "subcategory":
+  },{
+    "name": ,
+    "description": ,
+    "contact": ,
+    "category": ,
+    "subcategory":
+  },{
+    "name": ,
+    "description": ,
+    "contact": ,
+    "category": ,
+    "subcategory":
+  },{
+    "name": ,
+    "description": ,
+    "contact": ,
+    "category": ,
+    "subcategory":
+  },{
+    "name": ,
+    "description": ,
+    "contact": ,
+    "category": ,
+    "subcategory":
+  },{
+    "name": ,
+    "description": ,
+    "contact": ,
+    "category": ,
+    "subcategory":
+  },{
+    "name": ,
+    "description": ,
+    "contact": ,
+    "category": ,
+    "subcategory":
+  },{
+    "name": ,
+    "description": ,
+    "contact": ,
+    "category": ,
+    "subcategory":
+  }],
+
+  "categories": [{
+    "name": "Jobs",
+    "city": "Portland",
+    "state": "OR",
+    "country": "USA"
+  },{
+    "name": "Buy Sell",
+    "city": "Portland",
+    "state": "OR",
+    "country": "USA"
+  }, {
+    "name": "Jobs",
+    "city": "Vancouver",
+    "state": "BC",
+    "country": "Canada"
+  }, {
+    "name": "Buy Sell",
+    "city": "Vancouver",
+    "state": "BC",
+    "country": "Canada"
+  }]
+}
